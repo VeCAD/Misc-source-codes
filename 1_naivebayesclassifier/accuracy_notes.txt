@@ -1,0 +1,5 @@
+ 1. When Class A dataset fed as test dataset the correct classification rate is 73.2% for 1000 image sets
+ 2. When Class B dataset fed as test dataset the correct classification rate is 65.6% for 1000 image sets
+ 3. No labels for Field dataset. 52.5% classified as A and rest as B
+
+ run by python classifier.py
