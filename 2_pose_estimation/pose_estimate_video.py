@@ -1,6 +1,7 @@
 '''
 Using opencv libraries/database 
 The images are from Chokepoint dataset 
+The camera and other parameters were Googled from web
 '''
 
 import sys 
